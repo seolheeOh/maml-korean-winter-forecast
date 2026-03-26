@@ -1,7 +1,8 @@
 # maml-korean-winter-forecast
 
 Official implementation of the paper:
-"Few shot learning for Korean winter temperature forecasts" (https://www.nature.com/articles/s41612-024-00813-z)
+"Few shot learning for Korean winter temperature forecasts" 
+(https://www.nature.com/articles/s41612-024-00813-z)
 
 MAML-based few-shot learning framework for seasonal prediction of Korean winter temperature using domain-knowledge-driven data augmentation. This repository provides the implementation of a MAML-based convolutional neural network for seasonal prediction of Korean winter temperature anomalies.
 
